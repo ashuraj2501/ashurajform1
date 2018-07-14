@@ -1,0 +1,48 @@
+#div1 {
+    width: 960px;
+    height: auto;
+    border: 6px double blue;
+    background: lightcoral;
+    margin:10px auto;
+    padding: 20px;
+}
+#div2 {
+    background: rgb(104, 240, 165);
+    width: 950px;
+    height: 90px;
+    margin-top: 25px;
+    font-size: 30px;   
+}
+table {
+    width: 100%;
+}
+table, th ,td {
+    border: 1px solid;
+    padding: 8px;
+    margin: auto;
+}
+.ooo {
+    background-color: blue;
+    font-size: 30px;
+    padding: 0px; 
+    height: auto;
+}
+div th {
+    background-color: blue;
+}
+.aaa {
+    background: rgb(12, 12, 12);
+    width: 200px;
+    height: 300px;
+    padding: 30px;
+}
+.div3 {
+    background: slategray;
+    height: auto;
+    padding: 10px;
+}
+.div4 {
+    background: brown;
+    height: auto;
+    padding: 15px;
+}
