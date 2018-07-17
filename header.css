@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: white;
+    text-align: center;
+}
+#centro{
+    margin: 10px auto;
+    background-color: white;
+    width: 960px;
+    text-align: left;
+}
+#heado{
+    background-color: rgb(22,0,180);
+    color: white;
+}
+#logo{
+    display: inline;
+    /* top, right, bottom, left */
+    padding: 5px 2px 10px 10px;
+    vertical-align: middle;
+}
+#tagline{
+    display: inline;
+    vertical-align: middle;
+}
+#navo{
+    background-color: black;
+}
+#navo ul{
+    list-style-type: none;
+}
+#navo li{
+    display: inline;
+    padding: 10px;
+}
+#navo a{
+    color: aliceblue;
+}
+#ashu{
+    display: inline;
+    vertical-align: middle;
+    /* top, right, bottam, left */
+    padding: 5px 2px 10px 10px;
+}
+#leftside{
+    background-color: rgba(241, 133, 133);
+    float: left;
+    width: 240px;
+}
+.articalo{
+    background-color: rgb(5, 83, 79);
+    border: 1px solid black;
+    float: left;
+    margin: 10px;
+    width: 330px;
+    height: 150px;
+}
+.articalo header{
+    background-color: yellow;
+}
+.articalo footer{
+    background-color: grey;
+    color: red;
+}
+#footero{
+    background-color: gray;
+    clear: both;
+    text-align: center;
+}
